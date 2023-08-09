@@ -1,6 +1,7 @@
 import React from 'react'
 import { RiPhoneFill, RiFacebookBoxFill,RiInstagramLine } from "react-icons/ri";
 
+
 const Footer = () => {
   return (
 
